@@ -79,6 +79,28 @@ article:after {
   box-shadow: #FFF 0 0 0 5px;
 }
 
+.pagination {
+  text-align: center;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 2em;
+}
+.pagination .btn {
+  position: absolute;
+  padding: 0 15px;
+  border: #EBF2F6 2px solid;
+  text-decoration: none;
+  border-radius: 30px;
+  transition: border ease 0.3s;
+  color: #9EABB3;
+}
+.pagination .right {
+  right: 0;
+}
+.pagination .left {
+  left: 0;
+}
+
 code, pre {
   background: #eee;
   display: block;

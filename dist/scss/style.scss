@@ -90,6 +90,28 @@ article:after {
 	box-shadow: #FFF 0 0 0 5px;
 }
 
+.pagination {
+	text-align: center;
+	font-size: 14px;
+	font-family: $heading-font;
+	line-height: 2em;
+	.btn {
+		position: absolute;
+		padding: 0 15px;
+		border: #EBF2F6 2px solid;
+		text-decoration: none;
+		border-radius: 30px;
+		transition: border ease 0.3s;
+		color: #9EABB3;
+	}
+	.right {
+		right: 0;
+	}
+	.left {
+		left: 0;
+	}
+}
+
 code, pre {
 	background: #eee;
 	display: block;
