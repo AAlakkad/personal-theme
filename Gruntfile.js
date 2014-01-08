@@ -29,6 +29,14 @@ module.exports = function(grunt) {
 				files: {
 					'assets/css/bootstrap.css': 'bower_components/sass-bootstrap/lib/bootstrap.scss'
 				}
+			},
+			fa: {
+				options: {
+					style: 'compressed'
+				},
+				files: {
+					'assets/css/font-awesome.css': 'bower_components/font-awesome/scss/font-awesome.scss'
+				}
 			}
 		}
 	});

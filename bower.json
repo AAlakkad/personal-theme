@@ -17,7 +17,8 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "sass-bootstrap": "latest"
+    "sass-bootstrap": "latest",
+    "font-awesome": "latest"
   },
   "ignore": [
     "**/.*",
