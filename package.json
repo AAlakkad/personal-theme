@@ -1,0 +1,29 @@
+{
+  "name": "personal-theme",
+  "version": "0.0.1",
+  "description": "My Personal Theme (Template)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AAlakkad/personal-theme.git"
+  },
+  "keywords": [
+    "personal",
+    "template",
+    "theme",
+    "blog",
+    "portfolio"
+  ],
+  "dependencies": [
+    "grunt", "grunt-cli", "grunt-contrib-watch", "grunt-contrib-sass"
+  ],
+  "author": "Ammar Alakkad <am.alakkad@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AAlakkad/personal-theme/issues"
+  },
+  "homepage": "https://github.com/AAlakkad/personal-theme"
+}

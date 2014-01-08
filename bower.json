@@ -1,0 +1,29 @@
+{
+  "name": "personal-theme",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AAlakkad/personal-theme",
+  "authors": [
+    "Ammar Alakkad <am.alakkad@gmail.com>"
+  ],
+  "description": "My Personal Theme (Template)",
+  "main": "index.html",
+  "keywords": [
+    "theme",
+    "template",
+    "personal",
+    "portfolio",
+    "blog"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "sass-bootstrap": "latest"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

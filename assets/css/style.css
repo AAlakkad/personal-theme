@@ -1,0 +1,19 @@
+h1 {
+  font-size: 3em;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Open Sans", sans-serif;
+}
+
+header {
+  background: url("../images/cover.jpg") bottom;
+  background-size: cover;
+  padding: 150px 0;
+  color: #fff;
+  -webkit-text-shadow: -1px 1px 3px #333;
+  -moz-text-shadow: -1px 1px 3px #333;
+  -ms-text-shadow: -1px 1px 3px #333;
+  -o-text-shadow: -1px 1px 3px #333;
+  text-shadow: -1px 1px 3px #333;
+}
